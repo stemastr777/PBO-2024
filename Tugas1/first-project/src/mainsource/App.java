@@ -3,7 +3,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         
         HelloWorld greet_1 = new HelloWorld();
-        greet_1.SayHi();
+        // greet_1.SayHi();
 
         HelloName greet_2 = new HelloName();
         greet_2.SelfIntro();

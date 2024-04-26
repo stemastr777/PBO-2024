@@ -1,0 +1,12 @@
+1. Hasil output:
+
+    Nama: null
+    Alamat: null
+    NIM: A11.2000.00001
+
+
+2. Hasil output setelah penukaran:
+
+    NIM: A11.2000.00001
+    Nama: null
+    Alamat: null
