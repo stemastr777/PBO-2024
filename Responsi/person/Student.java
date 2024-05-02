@@ -17,6 +17,9 @@ public class Student extends Person{
 			
 			System.out.println("Input alamat:");
 			super.address = inp.next();
+
+			System.out.println("Input hobi:");
+			super.hoby = inp.next();
 			
 			System.out.println("Input NIM:");
 			this.nim = inp.next();
@@ -47,7 +50,7 @@ public class Student extends Person{
 	public void identity()
 	{
 		System.out.println("NIM: "+getNim());
-		super.identity(); // Output nama dan alamat
+		super.identity(); // Output nama, alamat, dan hobi
 		System.out.println("SPP: "+this.spp);
 		System.out.println("SKS: "+this.sks);
 		System.out.println("Modul: "+this.modul);

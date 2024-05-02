@@ -10,6 +10,7 @@ public class Person {
 	{
 		System.out.println("Nama: "+name);
 		System.out.println("Alamat: "+address);
+		System.out.println("Hobi: "+getHobi());
 	}
 
 	public String getHobi() {
