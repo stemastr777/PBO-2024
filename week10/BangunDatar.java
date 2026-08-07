@@ -1,6 +1,6 @@
 package week10;
 
-public abstract class BangunDatar {
+public class BangunDatar {
     
     public abstract void luas();
 

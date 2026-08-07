@@ -12,6 +12,10 @@ public class Lingkaran {
         System.out.println("Luas lingkaran: " + radius * radius * pi);
     }
 
+    public double luas() {
+        return(radius * radius * pi);
+    }
+
     public void keliling() {
         System.out.println("Keliling lingkaran: " + 2 * radius * pi);
     }
